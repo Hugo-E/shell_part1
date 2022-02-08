@@ -1,0 +1,13 @@
+NAME OF THE CHALLENGE: dedup
+Step 0:
+    - Extract pack.tar.gz
+
+Step 1:
+    - Delete all duplicated files
+        - A file is said to be a "duplicate" if its content is the same as another file.
+        - You MUST keep one and only one copy of that file
+
+Step 2:
+    - Put the "pack" folder in one compressed archive AND add it to your repository:
+        - The compressed archive MUST be in the tar.gz format
+        - The compressed archive MUST be named "dedup.tar.gz"

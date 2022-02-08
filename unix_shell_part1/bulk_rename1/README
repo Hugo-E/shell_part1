@@ -1,0 +1,18 @@
+NAME OF THE CHALLENGE: bulk_rename1
+
+Step 0:
+    -  Extract the archive pack.tar.gz
+
+Step 1:
+    -Rename all files in the "pack" folder following this format:
+        EPITECH2021_$FILENAME 
+    where :
+        - $FILENAME is the original name of the file
+    For example:
+        If a file is named "file_4242" you must rename it to EPITECH2021_file_4242
+
+Step 2:
+    - Put the "pack" folder in one compressed archive AND add it to your repository:
+        - The compressed archive MUST be in the tar.gz format
+        - The compressed archive MUST be named "bulk_rename1.tar.gz"
+    

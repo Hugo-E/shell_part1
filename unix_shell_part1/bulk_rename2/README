@@ -1,0 +1,23 @@
+NAME OF THE CHALLENGE: bulk_rename2
+
+Step 0:
+    -  Extract the archive pack.tar.gz
+
+Step 1:
+    -Rename all files in the "pack" folder following this format:
+        %YYYY-%MM-%dd_%hh:%mm:%ss_$FILENAME 
+    where :
+        - %YYYY is the year of creation of the file
+        - %MM is the month of creation of the file
+        - %dd is the day of creation of the file
+        - %hh:%mm:%ss is the hour, minute, second of creation of the file
+        - $FILENAME is the original name of the file
+    For example:
+        If the file named "file_4242" was created on the 1st December 2021 at 23:42:24
+        you must rename it to 2021-12-01-23:42:24_file_4242
+
+Step 2:
+    - Put the "pack" folder in one compressed archive AND add it to your repository:
+        - The compressed archive MUST be in the tar.gz format
+        - The compressed archive MUST be named "bulk_rename2.tar.gz"
+    

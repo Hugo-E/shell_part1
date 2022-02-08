@@ -1,0 +1,20 @@
+WORKSHOP: Unix Shell
+
+Rules:
+    - TTY only
+    - You MUST push your work on a public git repository and send me the URL of your repository before 10:10AM
+    - You MUST create a file named "autor.txt" at the root of your repository, this file MUST contain your EPITECH email adress followed by a new line
+    - There is 4 challenges for this session, you MAY do them in the order you want
+
+Delivery:
+   - For each challenges
+        - You MUST add to your repository an archive in the tar.gz format, the archive must be named correctly: "name_of_the_challenge.tar.gz"
+        - If you can't find the solution to a challenge, but you have an idea on how to solve it:
+            - You MAY create a file named "name_of_the_challenge.txt" and explain your idea in this file in a few lines
+
+Grading:
+    - 4 points per solved challenge. ie: the archive in your delivery is correct
+    - 1 point if your explainations are (somewhat) correct
+
+XP:
+    - You MUST participate to at least 2 sessions of this workshop to obtain XP

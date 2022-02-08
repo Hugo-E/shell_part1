@@ -1,0 +1,20 @@
+NAME OF THE CHALLENGE: file_sorting
+
+Step 0:
+    - Extract pack.tar.gz
+
+Step 1:
+    - Create 3 folders named:
+        - "Jan-Apr"
+        - "May-Aug"
+        - "Sep-Dec"
+Step 2:
+    - Move all the files located in the pack folder into either:
+        - The "Jan-Apr" folder if the file was last modified between January and April
+        - The "May-Aug" folder if the file was last modified between May and August
+        - The "Sep-Dec" folder if the file was last modified between September and December
+
+Step 4:
+    - Put the 3 folders in one compressed archive AND add it to your repository:
+        - The compressed archive MUST be in the tar.gz format
+        - The compressed archive MUST be named "file_sorting.tar.gz"
